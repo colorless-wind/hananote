@@ -77,7 +77,151 @@ export default {
           category: 'Hana',
           icon: 'pets',
           color: 'turquoise', // "black" | "blue" | "green" | "orange" | "purple" | "red" | "turquoise" | "white"
-        },
+        },{
+          dateString: '2024-01-01',
+          date: new Date('2024-01-01'),
+          title: '陪花花一起接回小饭',
+          description: '',
+          thumbnail: '',
+          category: 'Hana',
+          icon: 'pets',
+          color: 'turquoise', // "black" | "blue" | "green" | "orange" | "purple" | "red" | "turquoise" | "white"
+        },{
+          dateString: '2024-01-05',
+          date: new Date('2024-01-05'),
+          title: '花花骑自行车被交通警告',
+          description: '',
+          thumbnail: '',
+          category: 'Hana',
+          icon: 'pets',
+          color: 'turquoise', // "black" | "blue" | "green" | "orange" | "purple" | "red" | "turquoise" | "white"
+        },{
+          dateString: '2024-01-06',
+          date: new Date('2024-01-06'),
+          title: '陪花花去入职体检',
+          description: '',
+          thumbnail: '',
+          category: 'Hana',
+          icon: 'pets',
+          color: 'turquoise', // "black" | "blue" | "green" | "orange" | "purple" | "red" | "turquoise" | "white"
+        },{
+          dateString: '2024-01-07',
+          date: new Date('2024-01-07'),
+          title: '花花和他爸爸见面',
+          description: '',
+          thumbnail: '',
+          category: 'Hana',
+          icon: 'pets',
+          color: 'turquoise', // "black" | "blue" | "green" | "orange" | "purple" | "red" | "turquoise" | "white"
+        },{
+          dateString: '2024-01-08',
+          date: new Date('2024-01-08'),
+          title: '花花来生理期很疼请假',
+          description: '',
+          thumbnail: '',
+          category: 'Hana',
+          icon: 'pets',
+          color: 'turquoise', // "black" | "blue" | "green" | "orange" | "purple" | "red" | "turquoise" | "white"
+        },{
+          dateString: '2024-01-10',
+          date: new Date('2024-01-10'),
+          title: '花花的爸爸参观了她上班的公司',
+          description: '',
+          thumbnail: '',
+          category: 'Hana',
+          icon: 'pets',
+          color: 'turquoise', // "black" | "blue" | "green" | "orange" | "purple" | "red" | "turquoise" | "white"
+        },{
+          dateString: '2024-01-20',
+          date: new Date('2024-01-20'),
+          title: '聚点串吧聚餐',
+          description: '',
+          thumbnail: '',
+          category: 'Hana',
+          icon: 'pets',
+          color: 'turquoise', // "black" | "blue" | "green" | "orange" | "purple" | "red" | "turquoise" | "white"
+        },{
+          dateString: '2024-01-21',
+          date: new Date('2024-01-21'),
+          title: '庆祝花花到来一个月',
+          description: '绿茶餐厅聚餐<br>KTV唱歌',
+          thumbnail: '',
+          category: 'Hana',
+          icon: 'pets',
+          color: 'purple', // "black" | "blue" | "green" | "orange" | "purple" | "red" | "turquoise" | "white"
+        },{
+          dateString: '2024-01-27',
+          date: new Date('2024-01-27'),
+          title: '聚点串吧聚餐',
+          description: '',
+          thumbnail: '',
+          category: 'Hana',
+          icon: 'pets',
+          color: 'turquoise', // "black" | "blue" | "green" | "orange" | "purple" | "red" | "turquoise" | "white"
+        },{
+          dateString: '2024-01-28',
+          date: new Date('2024-01-28'),
+          title: '跟花花一起帮淼哥搬家',
+          description: '',
+          thumbnail: '',
+          category: 'Hana',
+          icon: 'pets',
+          color: 'turquoise', // "black" | "blue" | "green" | "orange" | "purple" | "red" | "turquoise" | "white"
+        },{
+          dateString: '2024-02-03',
+          date: new Date('2024-02-03'),
+          title: '庆祝花花拿到第一份工资',
+          description: '花花请大家吃海底捞',
+          thumbnail: '',
+          category: 'Hana',
+          icon: 'pets',
+          color: 'purple', // "black" | "blue" | "green" | "orange" | "purple" | "red" | "turquoise" | "white"
+        },{
+          dateString: '2024-02-05',
+          date: new Date('2024-02-05'),
+          title: '花花来生理期疼的很严重请假',
+          description: '我照顾花花<br>我推迟了一天车票',
+          thumbnail: '',
+          category: 'Hana',
+          icon: 'pets',
+          color: 'red', // "black" | "blue" | "green" | "orange" | "purple" | "red" | "turquoise" | "white"
+        },{
+          dateString: '2024-02-06',
+          date: new Date('2024-02-06'),
+          title: '花花来生理期疼的很严重请假',
+          description: '我照顾花花',
+          thumbnail: '',
+          category: 'Hana',
+          icon: 'pets',
+          color: 'turquoise', // "black" | "blue" | "green" | "orange" | "purple" | "red" | "turquoise" | "white"
+        },{
+          dateString: '2024-02-17',
+          date: new Date('2024-02-17'),
+          title: '庆祝花花到来两个月',
+          description: '请花花吃烤肉',
+          thumbnail: '',
+          category: 'Hana',
+          icon: 'pets',
+          color: 'turquoise', // "black" | "blue" | "green" | "orange" | "purple" | "red" | "turquoise" | "white"
+        },{
+          dateString: '2024-02-24',
+          date: new Date('2024-02-24'),
+          title: '元宵节花花请大家逛灯会',
+          description: '',
+          thumbnail: '',
+          category: 'Hana',
+          icon: 'pets',
+          color: 'turquoise', // "black" | "blue" | "green" | "orange" | "purple" | "red" | "turquoise" | "white"
+        },{
+          dateString: '2024-02-25',
+          date: new Date('2024-02-25'),
+          title: '花花跟我表达了她的想法',
+          description: '',
+          thumbnail: '',
+          category: 'Hana',
+          icon: 'pets',
+          color: 'red', // "black" | "blue" | "green" | "orange" | "purple" | "red" | "turquoise" | "white"
+        }
       ]
     }
   },
